@@ -13,3 +13,6 @@ We appreciate, but do not require, attribution. An attribution usually includes 
 If you think your use of code examples falls outside fair use or the permission given here, feel free to contact us at <permissions@oreilly.com>.
 	  
 Please note that the examples are not production code and have not been carefully tested. They are provided "as-is" and come with no warranty of any kind.
+
+# Original Code
+Repository cloned from O'Reilly official example code GitLab: https://resources.oreilly.com/examples/0636920064602, all copy rights should be honored.
